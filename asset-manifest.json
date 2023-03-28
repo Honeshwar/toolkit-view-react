@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toolkit-view-react/static/css/main.8f502498.css",
+    "main.js": "/toolkit-view-react/static/js/main.3af98219.js",
+    "index.html": "/toolkit-view-react/index.html",
+    "main.8f502498.css.map": "/toolkit-view-react/static/css/main.8f502498.css.map",
+    "main.3af98219.js.map": "/toolkit-view-react/static/js/main.3af98219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f502498.css",
+    "static/js/main.3af98219.js"
+  ]
+}
